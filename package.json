@@ -1,0 +1,19 @@
+{
+  "name": "estructurachat_c6u4l3",
+  "version": "1.0.0",
+  "description": "Aplicacion cliente-servidor de Curso NEXT_U modulo backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/jmoscosolarrea/estructuraChat.git\""
+  },
+  "author": "Jorge Moscoso L.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
